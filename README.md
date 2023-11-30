@@ -1,5 +1,6 @@
 # ExercicioCond1
 Resolução do exercicio 1 sobre estruturas condicionais (if/else) 
+O objetivo do programa é dizer ao usuário se o número inteiro inserido é par ou ímpar.
 
 package exercicioCondicional1;
 import java.util.Scanner;
